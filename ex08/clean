@@ -1,0 +1,1 @@
+find . \( -name "*~" -o -name "#*#" \) -print echo -exec rm {} \;
