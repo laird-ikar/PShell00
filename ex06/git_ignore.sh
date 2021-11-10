@@ -1,2 +1,2 @@
 cd ..
-git ls-files --others
+git ls-files -o  -i --exclude-standard
